@@ -1,4 +1,4 @@
-# Router.Calc
+# Router.Calc: plot a route and get data on fuel and distance
 A system for calculating a route based on the distance between two points.
 
 # How to Use
