@@ -16,3 +16,7 @@ Then the system will calculate the distance to the points and compute them toget
 - Fetch API
 - Async/await
 - Promise
+
+# API Used
+- nominatim 4.3.2
+- openrouteservice.org
