@@ -13,6 +13,8 @@ Then the system will calculate the distance to the points and compute them toget
 - Bootstrap
 - Three-Tier Architecture
 - To Do List
+- Event listener
+- Bubbling
 - Fetch API
 - Async/await
 - Promise
