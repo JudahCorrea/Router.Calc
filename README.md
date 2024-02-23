@@ -12,6 +12,7 @@ Then the system will calculate the distance to the points and compute them toget
 # Knowledge Used
 - Bootstrap
 - Three-Tier Architecture
+- LocalStorage
 - To Do List
 - Event listener
 - Bubbling
